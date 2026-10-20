@@ -1,7 +1,7 @@
 # An intrinsically disordered adaptor protein controls the size and composition of EGFR condensates on membranes
 Scripts for investigation of how GAB1 destabilizes EGFR condensates and nucleates distinct assemblies: quantification of condensate stability and composition, identification of condensate-destabilizing sequence features, computational reconstitution of phase separated systems, in silico prediction of PH domain oiligomerization
 
-Information for each script is provided below. Please contact me, or refer to our preprint (), for additional information.
+Information for each script is provided below. Please contact me, or refer to our preprint (https://doi.org/10.64898/2026.10.15.759085), for additional information.
 
 slb_condensateCounting.ijm: quantifying condensate number and area on supported lipid bilayers
 
